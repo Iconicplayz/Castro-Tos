@@ -28,4 +28,4 @@ We take steps to ensure data provided from Bleed is protected from misuse, loss,
 Your data including discord username , discord I'd and discriminator is being stored. You can tell to delete your data . 
 # Request For Deletion of your data
 
-You can contact us via support server or me in my DM ``- Vision !?#0214 `` on discord. From there you can tell us for deletion of your data.
+You can contact us via support server or me in my DM ``vision.dev`` on discord. From there you can tell us for deletion of your data.
